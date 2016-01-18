@@ -1,6 +1,3 @@
-/*
- * Copyright 2013 - 2015 by PostFinance Ltd - All rights reserved
- */
 package io.woll.svgFlyingSaucerJFreechartExample;
 
 import java.awt.Graphics2D;
